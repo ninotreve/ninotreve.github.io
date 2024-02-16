@@ -27,13 +27,3 @@ I am a proud HPC Admin for our [research group computing cluster](https://advanc
 <dt>Tools</dt>
 <dd>Linux, Git, Docker, Server Management</dd>
 </dl>
-
-# Research
-
-## Publications
-
-*   **Yuejia Zhang**, Weiguo Zheng, Zhijie Zhang, Peng Peng, Xuecang Zhang. **Hybrid Subgraph Matching Framework Powered by Sketch Tree for Distributed Systems**, _ICDE 2022, in the 38th IEEE International Conference on Data Engineering (ICDE)_.
-
-## Talks
-
-*   **Yuejia Zhang**, Weiguo Gao, Yingzhou Li. **Parallel Coordinate Descent Methods for Full Configuration Interaction**, _[ICIAM 2023, Tokyo, Japan](slides/iciam2023.pdf)_; _SIAM LA 24, Paris, France_.
