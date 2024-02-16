@@ -8,7 +8,7 @@ My main research focus and interest is numerical linear algebra problems for sci
 
 I am a proud HPC Admin for our [research group computing cluster](https://advancedsolver.com/guide/). I also like football and indie rock besides work.
 
-# Education
+## Education
 
 - Fudan University, Shanghai, China
   - PhD Student in Computational Mathematics
@@ -17,7 +17,7 @@ I am a proud HPC Admin for our [research group computing cluster](https://advanc
   - BSc in Data Science
   - Sep 2016 - Jun 2021
 
-# Skills
+## Skills
 
 <dl>
 <dt>Languages</dt>
@@ -27,3 +27,5 @@ I am a proud HPC Admin for our [research group computing cluster](https://advanc
 <dt>Tools</dt>
 <dd>Linux, Git, Docker, Server Management</dd>
 </dl>
+
+## [Research](./research.html)
