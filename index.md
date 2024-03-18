@@ -29,3 +29,7 @@ I am a proud HPC Admin for our [research group computing cluster](https://advanc
 </dl>
 
 ## [Research](./research.html)
+
+## Awards
+
+- SIAM LA24 Student Travel Award

@@ -10,7 +10,8 @@ layout: default
 
 ## Talks
 
-*   **Yuejia Zhang**, Weiguo Gao, Yingzhou Li. **Parallel Coordinate Descent Methods for Full Configuration Interaction**, _ICIAM 2023, Tokyo, Japan_; _SIAM LA 24, Paris, France_. [slides1](slides/iciam2023.pdf)
+*   **Yuejia Zhang**, Weiguo Gao, Yingzhou Li. Selected Configuration Interactions + Perturbation: Theory and Parallel Implementation. [slides](slides/fudan2023.pdf)
+*   **Yuejia Zhang**, Weiguo Gao, Yingzhou Li. **Parallel Coordinate Descent Methods for Full Configuration Interaction**. [slides for ICIAM23](slides/iciam2023.pdf), [slides for GAMM24](slides/gamm2024.pdf)
 
 ## Others
 
