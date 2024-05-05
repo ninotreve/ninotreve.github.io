@@ -10,8 +10,8 @@ layout: default
 
 ## Talks
 
-*   **Yuejia Zhang**, Weiguo Gao, Yingzhou Li. Selected Configuration Interactions + Perturbation: Theory and Parallel Implementation. [slides](slides/fudan2023.pdf)
-*   **Yuejia Zhang**, Weiguo Gao, Yingzhou Li. **Parallel Coordinate Descent Methods for Full Configuration Interaction**. [slides for ICIAM23](slides/iciam2023.pdf), [slides for GAMM24](slides/gamm2024.pdf)
+*   **Yuejia Zhang**, Weiguo Gao, Yingzhou Li. **Selected Configuration Interactions + Perturbation: Theory and Parallel Implementation**. [slides](slides/fudan2023.pdf)
+*   **Yuejia Zhang**, Weiguo Gao, Yingzhou Li. **Parallel Coordinate Descent Methods for Full Configuration Interaction**. [slides for SIAM LA24](slides/siamla24.pdf)
 
 ## Others
 
