@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hi, I am Yuejia (Nina). I am currently a third-year Ph.D. student majoring in computational mathematics in Fudan University, Shanghai, China, joint supervised by Professor [Weiguo Gao](https://math.fudan.edu.cn/mathen/11/98/c34204a397720/page.htm) and Professor [Yingzhou Li](https://yingzhouli.com/). This year, I am currently enrolled as exchange Ph.D. student in the Doctoral school in the Mathematics Program in EPFL, Lausanne, Switzerland, in [HPNALGS Group](https://search.epfl.ch/?filter=unit&q=HPNALGS) chaired by Professor [Laura Grigori](https://people.epfl.ch/laura.grigori).
+Hi, I am Yuejia (Nina). I am currently a third-year Ph.D. student majoring in computational mathematics in Fudan University, Shanghai, China, joint supervised by Professor [Weiguo Gao](https://math.fudan.edu.cn/mathen/11/98/c34204a397720/page.htm) and Professor [Yingzhou Li](https://yingzhouli.com/). This year, I am currently enrolled as exchange Ph.D. student in the Doctoral school in the Mathematics Program in EPFL, Lausanne, Switzerland, in [HPNALGS Group](https://www.epfl.ch/labs/hpnalgs/) chaired by Professor [Laura Grigori](https://people.epfl.ch/laura.grigori).
 
 My main research focus and interest is numerical linear algebra problems for scientific applications, in particular for molecular simulations and electronic structure computations, in quantum physics or chemistry. I care a lot about the performance, striving to use techniques from high performance computing to speed up the computation.
 
