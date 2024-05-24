@@ -6,7 +6,7 @@ Hi, I am Yuejia (Nina). I am currently a third-year Ph.D. student majoring in co
 
 My main research focus and interest is numerical linear algebra problems for scientific applications, in particular for molecular simulations and electronic structure computations, in quantum physics or chemistry. I care a lot about the performance, striving to use techniques from high performance computing to speed up the computation.
 
-I am a proud HPC Admin for our [research group computing cluster](https://advancedsolver.com/guide/). I also like football and indie rock besides work.
+I am a proud HPC Admin for [our research group computing cluster](https://advancedsolver.com/guide/). I also like football and indie rock besides work.
 
 ## Education
 
@@ -28,8 +28,4 @@ I am a proud HPC Admin for our [research group computing cluster](https://advanc
 <dd>Linux, Git, Docker, Server Management</dd>
 </dl>
 
-## [Research](./research.html)
-
-## Awards
-
-- SIAM LA24 Student Travel Award
+## [Research and Related Stuff](./research.html)
