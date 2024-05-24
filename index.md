@@ -8,14 +8,14 @@ My main research focus and interest is numerical linear algebra problems for sci
 
 I am a proud HPC Admin for [our research group computing cluster](https://advancedsolver.com/guide/). I also like football and indie rock besides work.
 
-## Education
+## Experience
 
-- Fudan University, Shanghai, China
-  - PhD Student in Computational Mathematics
-  - Sep 2021 - June 2026 (expected)
-- Fudan University, Shanghai, China
-  - BSc in Data Science
-  - Sep 2016 - Jun 2021
+- PhD Student in Computational Mathematics
+  - Advisors: Prof. [Weiguo Gao](https://math.fudan.edu.cn/mathen/11/98/c34204a397720/page.htm), Prof. [Yingzhou Li](https://yingzhouli.com/).
+  - School of Mathematical Sciences, Fudan University, Shanghai, China
+- Bachelor of Science, 2021
+  - Advisor: Prof. [Weiguo Zheng](https://weiguozheng.github.io/)
+  - School of Data Science, Fudan University, Shanghai, China
 
 ## Skills
 
@@ -27,5 +27,3 @@ I am a proud HPC Admin for [our research group computing cluster](https://advanc
 <dt>Tools</dt>
 <dd>Linux, Git, Docker, Server Management</dd>
 </dl>
-
-## [Research and Related Stuff](./research.html)

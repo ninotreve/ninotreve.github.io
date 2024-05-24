@@ -22,4 +22,4 @@ layout: default
 
 *   Applied Math PhD Seminar Organizer, 2023 Spring, Fudan University, Shanghai, China. [[homepage](https://amphds.yingzhouli.com/2023Spring.html)]
 
-[back](./)
+[back to main page](./)
