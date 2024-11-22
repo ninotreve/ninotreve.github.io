@@ -4,6 +4,10 @@ layout: default
 
 # Research Related
 
+## Preprints
+
+*   **Yuejia Zhang**, Weiguo Gao, Yingzhou Li. **Parallel multi-coordinate descent methods for full configuration interaction**. [[preprint](https://arxiv.org/abs/2411.07565)]
+
 ## Publications
 
 *   **Yuejia Zhang**, Weiguo Zheng, Zhijie Zhang, Peng Peng, Xuecang Zhang. **Hybrid Subgraph Matching Framework Powered by Sketch Tree for Distributed Systems**, _ICDE 2022, in the 38th IEEE International Conference on Data Engineering (ICDE)_. [[conference paper](https://ieeexplore.ieee.org/document/9835279)]
@@ -11,7 +15,7 @@ layout: default
 ## Talks
 
 *   Selected Configuration Interactions + Perturbation: Theory and Parallel Implementation. [[slides](slides/fudan2023.pdf)]
-*   Parallel Coordinate Descent Methods for Full Configuration Interaction. [[slides for SIAM LA24](slides/siamla24.pdf)]
+*   Parallel Coordinate Descent Methods for Full Configuration Interaction. [[slides](slides/beijing2024.pdf)]
 *   Density Matrix Renormalization Group in Quantum Chemistry. [[link](https://memento.epfl.ch/event/electronic-structure-reading-group-the-density-m-2/)]
 
 ## Awards
