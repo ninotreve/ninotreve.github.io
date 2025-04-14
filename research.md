@@ -4,12 +4,9 @@ layout: default
 
 # Research Related
 
-## Preprints
-
-*   **Yuejia Zhang**, Weiguo Gao, Yingzhou Li. **Parallel multi-coordinate descent methods for full configuration interaction**. [[preprint](https://arxiv.org/abs/2411.07565)]
-
 ## Publications
 
+*   **Yuejia Zhang**, Weiguo Gao, Yingzhou Li. **Parallel multi-coordinate descent methods for full configuration interaction**, _Journal of Chemical Theory and Computation_, 21(5), 2325–2337 (2025). [[preprint](https://arxiv.org/abs/2411.07565)][[doi](https://doi.org/10.1021/acs.jctc.4c01530)]
 *   **Yuejia Zhang**, Weiguo Zheng, Zhijie Zhang, Peng Peng, Xuecang Zhang. **Hybrid Subgraph Matching Framework Powered by Sketch Tree for Distributed Systems**, _ICDE 2022, in the 38th IEEE International Conference on Data Engineering (ICDE)_. [[conference paper](https://ieeexplore.ieee.org/document/9835279)]
 
 ## Talks
