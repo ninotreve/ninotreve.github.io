@@ -17,16 +17,19 @@ Outside of research, I enjoy cycling 🚴‍♀️, cooking 🍳, and coffee ☕
 ## Experience
 
 - **Visiting Researcher**, [HPNALGS Group](https://www.epfl.ch/labs/hpnalgs/), EPFL, Lausanne, Switzerland
-  _Nov 2023 – Oct 2024_
-  Host: Prof. [Laura Grigori](https://people.epfl.ch/laura.grigori)
+
+  - _Nov 2023 – Oct 2024_
+  - Host: Prof. [Laura Grigori](https://people.epfl.ch/laura.grigori)
 
 - **Ph.D. in Computational Mathematics**, Fudan University, Shanghai, China
-  _Sep 2021 – present_
-  Advisors: Prof. [Weiguo Gao](https://math.fudan.edu.cn/mathen/11/98/c34204a397720/page.htm), Prof. [Yingzhou Li](https://yingzhouli.com/)
+
+  - _Sep 2021 – present_
+  - Advisors: Prof. [Weiguo Gao](https://math.fudan.edu.cn/mathen/11/98/c34204a397720/page.htm), Prof. [Yingzhou Li](https://yingzhouli.com/)
 
 - **B.Sc. in Data Science**, Fudan University, Shanghai, China
-  _Sep 2017 – Jun 2021_
-  Advisor: Prof. [Weiguo Zheng](https://weiguozheng.github.io/)
+
+  - _Sep 2017 – Jun 2021_
+  - Advisor: Prof. [Weiguo Zheng](https://weiguozheng.github.io/)
 
 ---
 
