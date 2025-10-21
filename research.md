@@ -2,33 +2,7 @@
 layout: default
 ---
 
-# Research Related
-
-## Publications
-
-*   **Yuejia Zhang**, Weiguo Gao, Yingzhou Li. **Parallel multi-coordinate descent methods for full configuration interaction**, _Journal of Chemical Theory and Computation_, 21(5), 2325–2337 (2025). [[preprint](https://arxiv.org/abs/2411.07565)][[doi](https://doi.org/10.1021/acs.jctc.4c01530)]
-*   **Yuejia Zhang**, Weiguo Zheng, Zhijie Zhang, Peng Peng, Xuecang Zhang. **Hybrid Subgraph Matching Framework Powered by Sketch Tree for Distributed Systems**, _ICDE 2022, in the 38th IEEE International Conference on Data Engineering (ICDE)_. [[conference paper](https://ieeexplore.ieee.org/document/9835279)]
-
-## Talks
-
-*   Selected Configuration Interactions + Perturbation: Theory and Parallel Implementation. [[slides](slides/fudan2023.pdf)]
-*   Parallel Coordinate Descent Methods for Full Configuration Interaction. [[slides](slides/beijing2024.pdf)]
-*   Density Matrix Renormalization Group in Quantum Chemistry. [[link](https://memento.epfl.ch/event/electronic-structure-reading-group-the-density-m-2/)]
-
-## Awards
-
-*   SIAM LA24 Student Travel Award
-
-## Teaching
-
-*   DATA130002h, Numerical Algorithms with Case Studies I, 2023 Fall.
-*   MATH130165h, Numerical Linear Algebra and Optimization, 2022 Spring. (Nominated Excellent TA Award)
-
-## Others
-
-*   Applied Math PhD Seminar Organizer, 2023 Spring, Fudan University, Shanghai, China. [[homepage](https://amphds.yingzhouli.com/2023Spring.html)]
-
-# Research Unrelated
+# Outside Research
 
 I have translated two French picture books to Chinese, both very good and highly recommended. Contact me if you want to have a read.
 
