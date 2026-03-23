@@ -3,7 +3,7 @@ layout: default
 ---
 
 Hi, I am **Yuejia (Nina) Zhang**, a final-year Ph.D. student in Computational Mathematics at **Fudan University**, Shanghai, China.
-I am jointly supervised by Professor [Weiguo Gao](https://math.fudan.edu.cn/mathen/11/98/c34204a397720/page.htm) and Professor [Yingzhou Li](https://yingzhouli.com/). I expect to graduate in June 2026 and am currently looking for a postdoc position. [[CV](attachement/CV_YuejiaZhang_Mar_2026.pdf), updated March 2026]
+I am jointly supervised by Professor [Weiguo Gao](https://math.fudan.edu.cn/mathen/11/98/c34204a397720/page.htm) and Professor [Yingzhou Li](https://yingzhouli.com/). I expect to graduate in June 2026 and am currently looking for a postdoc position. [[CV](attachment/CV_YuejiaZhang_Mar_2026.pdf), updated March 2026]
 
 My research focuses on **numerical linear algebra and high-performance algorithms for quantum chemistry**, especially the development of efficient solvers for the many-body Schrödinger equation.
 I am particularly interested in coordinate descent methods, large-scale eigenvalue problems, tensor-based techniques, and scalable implementations for electronic structure computations.
