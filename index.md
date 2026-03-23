@@ -2,15 +2,16 @@
 layout: default
 ---
 
-Hi, I am **Yuejia (Nina) Zhang**, a fifth-year Ph.D. student in Computational Mathematics at **Fudan University**, Shanghai, China.
-I am jointly supervised by Professor [Weiguo Gao](https://math.fudan.edu.cn/mathen/11/98/c34204a397720/page.htm) and Professor [Yingzhou Li](https://yingzhouli.com/).
+Hi, I am **Yuejia (Nina) Zhang**, a final-year Ph.D. student in Computational Mathematics at **Fudan University**, Shanghai, China.
+I am jointly supervised by Professor [Weiguo Gao](https://math.fudan.edu.cn/mathen/11/98/c34204a397720/page.htm) and Professor [Yingzhou Li](https://yingzhouli.com/). I expect to graduate in June 2026 and am currently looking for a postdoc position. [[CV](attachement/CV_YuejiaZhang_Mar_2026.pdf), updated March 2026]
 
 My research focuses on **numerical linear algebra and high-performance algorithms for quantum chemistry**, especially the development of efficient solvers for the many-body Schrödinger equation.
-I am particularly interested in coordinate descent methods, eigenvalue problems, and scalable implementations for electronic structure computations.
-I care a lot about performance, and I strive to bridge mathematical analysis with practical HPC software engineering.
+I am particularly interested in coordinate descent methods, large-scale eigenvalue problems, tensor-based techniques, and scalable implementations for electronic structure computations.
+Performance is a central priority for me, and I am dedicated to bridging mathematical analysis with practical HPC software engineering.
 
-I am also the **HPC administrator** of [our research group cluster](https://advancedsolver.com/guide/).
-Outside of research, I enjoy cycling 🚴‍♀️, cooking 🍳, and coffee ☕.
+In addition to my research, I serve as the **HPC administrator** of [our research group's computing cluster](https://advancedsolver.com/guide/).
+
+Outside of academia, I am passionate about cycling 🚴‍♀️, cooking 🍳, and coffee ☕.
 
 ---
 
@@ -51,15 +52,26 @@ Outside of research, I enjoy cycling 🚴‍♀️, cooking 🍳, and coffee ☕
 
 ### Talks
 
+* **CDFCI and Beyond: Tackling Large-Scale Eigenvalue Problems in Many-Body Quantum Mechanics with Coordinate Descent Methods**
+  [[slides](attachment/slides_cdfci_beyond.pdf)]
+  - Mar 9, 2026 — _Seminars of the Research Group Computational Methods in Systems and Control Theory_, Max Planck Institute for Dynamics of Complex Technical Systems Magdeburg, Germany
+  - Mar 12, 2026 — _Invited Talk, Technical University of Munich_, Munich, Germany
+
+* **CDFCI: High-Performance Parallel Software for Eigenvalue Problems in Many-Body Schrödinger Equation**
+  [[slides](attachment/slides_cdfci_software.pdf)]
+  - Mar 5, 2026 — _SIAM Conference on Parallel Processing for Scientific Computing (PP26)_, Berlin, Germany
+  - Mar 18, 2026 — _S26 Modelling, analysis and simulation of molecular systems, GAMM Annual Meeting 2026_, Stuttgart, Germany
+
 * **Parallel Coordinate Descent Methods for Full Configuration Interaction**
   [[slides](attachment/slides_mcdfci.pdf), [poster](attachment/poster_mcdfci.pdf)]
-  - Mar 19, 2024 — _GAMM Annual Meeting 2024_, Magdeburg, Germany
+  - Mar 19, 2024 — _S26 Modelling, analysis and simulation of molecular systems, GAMM Annual Meeting 2024_, Magdeburg, Germany
   - May 15, 2024 — _SIAM Conference on Applied Linear Algebra (LA24)_, Paris, France
+  - Nov 19, 2024 — _Invited Talk, Beijing Normal University_, Beijing, China
   - Nov 20, 2024 — _PKU Applied Math Lunch Seminar_, Beijing, China
   - Dec 25, 2024 — _Workshop on Scientific Computing and Machine Learning_, Tianyuan Center, Kunming, China
   - May 22, 2025 — _Invited Talk, Tongji University_, Shanghai, China
-  - Jun 2, 2025 — _NUS–Fudan–ZJU PhD Meeting_, Singapore
-  - Jul 20–23, 2025 — _Poster Presentation, Fudan Summer School on Scientific Computing_, Shanghai, China
+  - Jun 2, 2025 — _NUS-Fudan–ZJU PhD Meeting_, Singapore
+  - Jul 20, 2025 — _Poster Presentation, Fudan Summer School on Scientific Computing_, Shanghai, China
 
 * **Density Matrix Renormalization Group in Quantum Chemistry**
   [[link](https://memento.epfl.ch/event/electronic-structure-reading-group-the-density-m-2/)]
@@ -68,13 +80,14 @@ Outside of research, I enjoy cycling 🚴‍♀️, cooking 🍳, and coffee ☕
 
 ### Awards
 
-* **SIAM LA24 Student Travel Award**, Paris, 2024
+* **SIAM PP26 Student Travel Award**, 2026
+* **SIAM LA24 Student Travel Award**, 2024
 
 ---
 
 ### Teaching
 
-* **MATH20007.01**, Numerical Algorithms with Case Studies I - *Fall 2025*
+* **MATH20007.01**, Numerical Algorithms with Case Studies I — *Fall 2025*
 * **DATA130002h**, Numerical Algorithms with Case Studies I — *Fall 2023*
 * **MATH130165h**, Numerical Linear Algebra and Optimization — *Spring 2022*
   (Nominated for Excellent TA Award)
