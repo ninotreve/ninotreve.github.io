@@ -45,9 +45,31 @@
         {% endif %}
 
       </header>
-      <section>
+      <section{% if page.url == "/" %} class="home-section"{% endif %}>
 
+      {% if page.url == "/" %}
+      <div class="page-with-sidebar">
+        <aside class="page-sidebar" aria-label="Section navigation">
+          <p class="page-sidebar-title">On this page</p>
+          <nav class="page-sidebar-nav">
+            <a href="#experience">Experience</a>
+            <a href="#research">Research</a>
+            <a href="#publications">Publications</a>
+            <a href="#talks">Talks</a>
+            <a href="#awards">Awards</a>
+            <a href="#teaching">Teaching</a>
+            <a href="#academic-service">Academic Service</a>
+            <a href="#skills">Skills</a>
+          </nav>
+        </aside>
+
+        <div class="page-main-content">
       {{ content }}
+        </div>
+      </div>
+      {% else %}
+      {{ content }}
+      {% endif %}
 
       </section>
       <footer>

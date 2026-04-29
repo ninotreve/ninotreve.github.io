@@ -15,7 +15,7 @@ Outside of academia, I am passionate about cycling 🚴‍♀️, cooking 🍳, 
 
 ---
 
-## Experience
+## Experience {#experience}
 
 - **Visiting Researcher**, [HPNALGS Group](https://www.epfl.ch/labs/hpnalgs/), EPFL, Lausanne, Switzerland
 
@@ -34,9 +34,9 @@ Outside of academia, I am passionate about cycling 🚴‍♀️, cooking 🍳, 
 
 ---
 
-## Research
+## Research {#research}
 
-### Publications
+### Publications {#publications}
 
 * **Yuejia Zhang**, Weiguo Gao, Yingzhou Li.
   **Parallel Multi-Coordinate Descent Methods for Full Configuration Interaction**,
@@ -50,7 +50,12 @@ Outside of academia, I am passionate about cycling 🚴‍♀️, cooking 🍳, 
 
 ---
 
-### Talks
+### Software {#software}
+* CDFCI: C++ implemented Coordinate Descent Full Configuration Interaction (CDFCI) package for quantum chemistry calculation. [https://github.com/CDFCI/CDFCI](https://github.com/CDFCI/CDFCI)
+
+---
+
+### Talks {#talks}
 
 * **CDFCI and Beyond: Tackling Large-Scale Eigenvalue Problems in Many-Body Quantum Mechanics with Coordinate Descent Methods**
   [[slides](attachment/slides_cdfci_beyond.pdf)]
@@ -78,14 +83,14 @@ Outside of academia, I am passionate about cycling 🚴‍♀️, cooking 🍳, 
 
 ---
 
-### Awards
+## Awards {#awards}
 
 * **SIAM PP26 Student Travel Award**, 2026
 * **SIAM LA24 Student Travel Award**, 2024
 
 ---
 
-### Teaching
+## Teaching {#teaching}
 
 * **MATH20007.01**, Numerical Algorithms with Case Studies I — *Fall 2025*
 * **DATA130002h**, Numerical Algorithms with Case Studies I — *Fall 2023*
@@ -94,7 +99,7 @@ Outside of academia, I am passionate about cycling 🚴‍♀️, cooking 🍳, 
 
 ---
 
-### Academic Service
+## Academic Service {#academic-service}
 
 * Student Organizer, **Fudan Summer School on Scientific Computing**, Fudan University — *Summer 2025*
   [[homepage](https://yingzhouli.com/others/FDUSS2025/index-rnla-en.html)]
@@ -103,7 +108,7 @@ Outside of academia, I am passionate about cycling 🚴‍♀️, cooking 🍳, 
 
 ---
 
-### Skills
+## Skills {#skills}
 
 <dl>
 <dt>Languages</dt>

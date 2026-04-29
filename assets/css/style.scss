@@ -2,3 +2,88 @@
 ---
 
 @import "jekyll-theme-minimal";
+
+html {
+	scroll-behavior: smooth;
+}
+
+@media print, screen and (min-width: 961px) {
+	.wrapper {
+		width: 1080px;
+	}
+
+	section.home-section {
+		width: 690px;
+	}
+
+	.page-with-sidebar {
+		display: flex;
+		align-items: flex-start;
+		gap: 32px;
+	}
+
+	.page-sidebar {
+		position: sticky;
+		top: 32px;
+		flex: 0 0 170px;
+		padding-left: 18px;
+		border-left: 2px solid #e5e5e5;
+	}
+
+	.page-main-content {
+		min-width: 0;
+		flex: 1;
+	}
+}
+
+.page-sidebar-title {
+	margin: 0 0 12px;
+	font-size: 11px;
+	font-weight: 700;
+	letter-spacing: 0.08em;
+	text-transform: uppercase;
+	color: #494949;
+}
+
+.page-sidebar-nav {
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+}
+
+.page-sidebar-nav a {
+	color: #727272;
+	font-size: 13px;
+	line-height: 1.35;
+}
+
+.page-sidebar-nav a:hover,
+.page-sidebar-nav a:focus {
+	color: #267cb9;
+	font-weight: 700;
+}
+
+.page-main-content h2,
+.page-main-content h3 {
+	scroll-margin-top: 24px;
+}
+
+@media print, screen and (max-width: 960px) {
+	.page-with-sidebar {
+		display: block;
+	}
+
+	.page-sidebar {
+		margin: 0 0 24px;
+		padding: 16px 18px;
+		border: 1px solid #e5e5e5;
+		border-radius: 8px;
+		background: #fafafa;
+	}
+
+	.page-sidebar-nav {
+		flex-direction: row;
+		flex-wrap: wrap;
+		gap: 8px 14px;
+	}
+}
