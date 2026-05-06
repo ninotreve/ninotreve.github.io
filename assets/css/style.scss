@@ -23,14 +23,16 @@ html {
 	}
 
 	.page-sidebar {
+		order: 2;
 		position: sticky;
 		top: 32px;
 		flex: 0 0 170px;
-		padding-left: 18px;
-		border-left: 2px solid #e5e5e5;
+		padding-right: 18px;
+		border-right: 2px solid #e5e5e5;
 	}
 
 	.page-main-content {
+		order: 1;
 		min-width: 0;
 		flex: 1;
 	}

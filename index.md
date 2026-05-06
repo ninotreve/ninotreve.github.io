@@ -3,7 +3,7 @@ layout: default
 ---
 
 Hi, I am **Yuejia (Nina) Zhang**, a final-year Ph.D. student in Computational Mathematics at **Fudan University**, Shanghai, China.
-I am jointly supervised by Professor [Weiguo Gao](https://math.fudan.edu.cn/mathen/11/98/c34204a397720/page.htm) and Professor [Yingzhou Li](https://yingzhouli.com/). I expect to graduate in June 2026 and am currently looking for a postdoc position. [[CV](attachment/CV_YuejiaZhang_Mar_2026.pdf), updated March 2026]
+I am fortunate to be jointly supervised by Professor [Weiguo Gao](https://math.fudan.edu.cn/fa/5a/c30607a326234/page.htm) and Professor [Yingzhou Li](https://yingzhouli.com/). I expect to graduate in June 2026 and am currently looking for a postdoc position. [[CV](attachment/CV_YuejiaZhang_Mar_2026.pdf), updated March 2026]
 
 My research focuses on **numerical linear algebra and high-performance algorithms for quantum chemistry**, especially the development of efficient solvers for the many-body Schrödinger equation.
 I am particularly interested in coordinate descent methods, large-scale eigenvalue problems, tensor-based techniques, and scalable implementations for electronic structure computations.
@@ -11,7 +11,7 @@ Performance is a central priority for me, and I am dedicated to bridging mathema
 
 In addition to my research, I serve as the **HPC administrator** of [our research group's computing cluster](https://advancedsolver.com/guide/).
 
-Outside of academia, I am passionate about cycling 🚴‍♀️, cooking 🍳, and coffee ☕.
+Outside of academia, I enjoy reading and (watching) cycling with a good cup of coffee.
 
 ---
 
@@ -34,7 +34,7 @@ Outside of academia, I am passionate about cycling 🚴‍♀️, cooking 🍳, 
 
 ---
 
-## Research {#research}
+## Research
 
 ### Publications {#publications}
 
@@ -92,9 +92,9 @@ Outside of academia, I am passionate about cycling 🚴‍♀️, cooking 🍳, 
 
 ## Teaching {#teaching}
 
-* **MATH20007.01**, Numerical Algorithms with Case Studies I — *Fall 2025*
-* **DATA130002h**, Numerical Algorithms with Case Studies I — *Fall 2023*
-* **MATH130165h**, Numerical Linear Algebra and Optimization — *Spring 2022*
+* Teaching Assistant, **MATH20007.01**, Numerical Algorithms with Case Studies I — *Fall 2025*
+* Teaching Assistant, **DATA130002h**, Numerical Algorithms with Case Studies I — *Fall 2023*
+* Teaching Assistant, **MATH130165h**, Numerical Linear Algebra and Optimization — *Spring 2022*
   (Nominated for Excellent TA Award)
 
 ---
