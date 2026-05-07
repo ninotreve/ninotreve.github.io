@@ -34,9 +34,16 @@ Outside of academia, I enjoy reading and (watching) cycling with a good cup of c
 
 ---
 
-## Research
+## Research {#research}
 
-### Publications {#publications}
+### Preprints
+
+* **Yuejia Zhang**, Zhe Wang, Jianfeng Lu, Yingzhou Li.
+  **CDFCI: High-Performance Parallel Software for Many-Body Large-Scale Eigenvalue Problems**.
+  [[preprint](https://arxiv.org/abs/2605.04483)]
+
+
+### Publications
 
 * **Yuejia Zhang**, Weiguo Gao, Yingzhou Li.
   **Parallel Multi-Coordinate Descent Methods for Full Configuration Interaction**,
@@ -48,12 +55,8 @@ Outside of academia, I enjoy reading and (watching) cycling with a good cup of c
   _ICDE 2022 (38th IEEE International Conference on Data Engineering)_.
   [[conference paper](https://ieeexplore.ieee.org/document/9835279)]
 
----
-
-### Software {#software}
-* CDFCI: C++ implemented Coordinate Descent Full Configuration Interaction (CDFCI) package for quantum chemistry calculation. [https://github.com/CDFCI/CDFCI](https://github.com/CDFCI/CDFCI)
-
----
+### Software
+* **CDFCI**: C++ implemented Coordinate Descent Full Configuration Interaction (CDFCI) package for quantum chemistry calculation. [https://github.com/CDFCI/CDFCI](https://github.com/CDFCI/CDFCI)
 
 ### Talks {#talks}
 
