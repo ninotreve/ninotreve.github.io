@@ -3,15 +3,13 @@ layout: default
 ---
 
 Hi, I am **Yuejia (Nina) Zhang**, a final-year Ph.D. student in Computational Mathematics at **Fudan University**, Shanghai, China.
-I am fortunate to be jointly supervised by Professor [Weiguo Gao](https://math.fudan.edu.cn/fa/5a/c30607a326234/page.htm) and Professor [Yingzhou Li](https://yingzhouli.com/). I expect to graduate in June 2026 and am currently looking for a postdoc position. [[CV](attachment/CV_May_2026.pdf), updated May 2026]
+I am fortunate to be jointly supervised by Professor [Weiguo Gao](https://math.fudan.edu.cn/fa/5a/c30607a326234/page.htm) and Professor [Yingzhou Li](https://yingzhouli.com/). I expect to graduate in September 2026 and am currently looking for a postdoc position. [[CV](attachment/PostDoc_CV.pdf), updated September 2026]
 
 My research focuses on **numerical linear algebra and high-performance algorithms for quantum chemistry**, especially the development of efficient solvers for the many-body Schrödinger equation.
 I am particularly interested in coordinate descent methods, large-scale eigenvalue problems, tensor-based techniques, and scalable implementations for electronic structure computations.
 Performance is a central priority for me, and I am dedicated to bridging mathematical analysis with practical HPC software engineering.
 
 In addition to my research, I serve as the **HPC administrator** of [our research group's computing cluster](https://advancedsolver.com/guide/).
-
-Outside of academia, I enjoy reading and (watching) cycling with a good cup of coffee.
 
 ---
 
@@ -26,6 +24,7 @@ Outside of academia, I enjoy reading and (watching) cycling with a good cup of c
 
   - _Sep 2021 – present_
   - Advisors: Prof. [Weiguo Gao](https://math.fudan.edu.cn/mathen/11/98/c34204a397720/page.htm), Prof. [Yingzhou Li](https://yingzhouli.com/)
+  - Thesis: *Multi-Coordinate Descent Framework for Full Configuration Interaction Eigenvalue Problems: Theory, Algorithms, and Software* (defended June 3, 2026)
 
 - **B.Sc. in Data Science**, Fudan University, Shanghai, China
 
